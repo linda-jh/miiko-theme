@@ -9,6 +9,13 @@
     "engines": {
         "vscode": "^1.53.0"
     },
+    "reposity": {
+        "type": "git",
+        "url": "https://github.com/linda-jh/miiko-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/linda-jh/miiko-theme/issues"
+    },
     "categories": [
         "Themes"
     ],
