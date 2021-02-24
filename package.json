@@ -7,7 +7,7 @@
     "author": {
         "name": "Linda Hovila"
     },
-    "version": "0.0.1",
+    "version": "0.0.12",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -20,7 +20,7 @@
     },
     "categories": [
         "Themes"
-    ], 
+    ],
     "keywords": [
         "Dark Theme",
         "dark",
