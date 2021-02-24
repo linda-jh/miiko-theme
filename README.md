@@ -8,7 +8,7 @@ The colors in this theme are little muddy and not anything too bright. My aim al
 
 ![Screenshot](vscode_miiko2.png)
 
-![Screenshot](vscode_miiko1.png)
+![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/vscode_miiko1.png)
 
 ![Screenshot](vscode_miiko3.png)
 

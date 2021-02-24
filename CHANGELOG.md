@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4] - 2021-02-24
+
+- Changed screenshot links again
+
 ## [0.0.3] - 2021-02-24
 
 - Changed screenshot links
