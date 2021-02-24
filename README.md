@@ -6,13 +6,13 @@ The colors in this theme are little muddy and not anything too bright. My aim al
 
 **Fun fact:** This theme is named after my cat!
 
-![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko2.png?token=ASTXUBZIHBCC5WCJ3UNL2ZDAGZABU )
+![picture](vscode_miiko2.png)
 
-![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko1.png?token=ASTXUB4773KVPXMSK4EDCSLAGZGPK )
+![picture](vscode_miiko1.png)
 
-![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko3.png?token=ASTXUB23YZIDPIW6N3NEMVDAGZAEI )
+![picture](vscode_miiko3.png)
 
-![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko4.png?token=ASTXUBZC35QBOCA53JGEFZTAGZAFO )
+![picture](vscode_miiko4.png)
 
 
 **Enjoy!**
