@@ -6,13 +6,13 @@ The colors in this theme are little muddy and not anything too bright. My aim al
 
 **Fun fact:** This theme is named after my cat!
 
-![Screenshot](vscode_miiko2.png)
+![Screenshot](./vscode_miiko2.png)
 
-![Screenshot](vscode_miiko1.png)
+![Screenshot](./vscode_miiko1.png)
 
-![Screenshot](vscode_miiko3.png)
+![Screenshot](./vscode_miiko3.png)
 
-![Screenshot](vscode_miiko4.png)
+![Screenshot](./vscode_miiko4.png)
 
 
 **Enjoy!**
