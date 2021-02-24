@@ -6,13 +6,13 @@ The colors in this theme are little muddy and not anything too bright. My aim al
 
 **Fun fact:** This theme is named after my cat!
 
-![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/vscode_miiko2.png)
+![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/java.png)
 
-![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/vscode_miiko1.png)
+![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/python.png)
 
-![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/vscode_miiko3.png)
+![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/html.png)
 
-![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/vscode_miiko4.png)
+![Screenshot](https://raw.githubusercontent.com/linda-jh/miiko-theme/main/css.png)
 
 
 **Enjoy!**
