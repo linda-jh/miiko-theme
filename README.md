@@ -1,14 +1,18 @@
 # Miiko
 ## Dark theme for VS Code
-Thank you for checking in my first theme! This is especially made with my own interests, but I hope that you like it as well. 
+Thank you for checking out my first theme! This is especially made with my own interests, but I hope that you like it as well. 
 
-The colors in this theme are a little muddy and not anything too bright. My aim also was to make this theme useful for people with red-green color blindness and I am happy to take feed back and work on that more!
+The colors in this theme are little muddy and not anything too bright. My aim also was to make this theme useful for people with red-green color blindness and I am happy to take feed back and work on that more!
 
-Fun fact: This theme is named after my cat!
+**Fun fact:** This theme is named after my cat!
 
+![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko2.png?token=ASTXUBZIHBCC5WCJ3UNL2ZDAGZABU )
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko1.png?token=ASTXUB6FZC3SYFERTBBMUB3AGZAJW )
+
+![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko3.png?token=ASTXUB23YZIDPIW6N3NEMVDAGZAEI )
+
+![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko4.png?token=ASTXUBZC35QBOCA53JGEFZTAGZAFO )
+
 
 **Enjoy!**

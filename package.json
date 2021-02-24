@@ -19,6 +19,16 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "theme": "dark"
+    },
+    "keywords": [
+        "Dark Theme",
+        "dark",
+        "red",
+        "muddy",
+        "pink"
+    ],
     "contributes": {
         "themes": [
             {
