@@ -3,7 +3,7 @@
     "displayName": "Miiko Theme",
     "description": "Miiko Theme",
     "icon": "icon.png",
-    "publisher": "lindxz",
+    "publisher": "linda-jh",
     "author": {
         "name": "Linda Hovila"
     },
@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.53.0"
     },
-    "reposity": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/linda-jh/miiko-theme"
     },
