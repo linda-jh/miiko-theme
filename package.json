@@ -31,7 +31,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "miiko",
+                "label": "Miiko",
                 "uiTheme": "vs-dark",
                 "path": "./themes/miiko-color-theme.json"
             }
