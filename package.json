@@ -9,7 +9,7 @@
     },
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.50.0"
     },
     "repository": {
         "type": "git",
@@ -31,9 +31,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "lindxz",
+                "label": "miiko",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lindxz-color-theme.json"
+                "path": "./themes/miiko-color-theme.json"
             }
         ]
     }
