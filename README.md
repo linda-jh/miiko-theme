@@ -1,4 +1,4 @@
-# Miiko
+# Miiko Theme
 ## Dark theme for VS Code
 Thank you for checking out my first theme! This is especially made with my own interests, but I hope that you like it as well. 
 
@@ -8,7 +8,7 @@ The colors in this theme are little muddy and not anything too bright. My aim al
 
 ![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko2.png?token=ASTXUBZIHBCC5WCJ3UNL2ZDAGZABU )
 
-![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko1.png?token=ASTXUB6FZC3SYFERTBBMUB3AGZAJW )
+![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko1.png?token=ASTXUB4773KVPXMSK4EDCSLAGZGPK )
 
 ![picture]( https://raw.githubusercontent.com/linda-jh/kuvat/main/vscode_miiko3.png?token=ASTXUB23YZIDPIW6N3NEMVDAGZAEI )
 
